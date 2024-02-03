@@ -8,7 +8,7 @@
 
 #### Data Source 
 - Kaggle.com
-- 
+
 ### Data Tools
 - Excel 
 - SQL
@@ -21,6 +21,7 @@
 - data validation
 - data profiling
 - data modeling
+- ETL 
   
 ### Exploratoy Anaysis
 - SQL was used to create lookup tables which enabled me to produce efficientndata modeling tables 
@@ -39,7 +40,9 @@ FROM walmart_groceryanalysis;
 
 ### Data Analysis
 - total records:670 
-- total field:  13 
+- total field:  13
+
+
 
 ### Findings/ Insights 
 
